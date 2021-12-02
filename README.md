@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snishijima
 - 👀 I’m interested in fun data projects
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on public health research.
+- 💞️ I’m looking to collaborate on variety of research topics. 
 - 📫 How to reach me -email?
 
 <!---
