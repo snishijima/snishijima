@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @snishijima
 - 👀 I’m interested in fun data projects
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python libraries - SciPy
 - 💞️ I’m looking to collaborate on variety of research topics. 
-- 📫 How to reach me -email?
+- 📫 How to reach me -email.
 
 <!---
 snishijima/snishijima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
